@@ -1,0 +1,27 @@
+body {
+    background-color: black;
+    text-align: center;
+}
+
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: normal;
+    font-size: 50px;
+    color: white;
+    text-align: center;
+}
+
+header {
+    text-align: center;
+}
+
+header.a {
+    color: aquamarine;
+    
+    
+}
+
+a:visited, a:link {
+    color: aquamarine;
+    font-size: 18px;
+}
