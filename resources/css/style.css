@@ -1,6 +1,7 @@
 body {
     background-color: black;
     text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 h1 {
@@ -11,6 +12,12 @@ h1 {
     text-align: center;
 }
 
+h2 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 300;
+    font-size: 42px;
+    color: white;
+}
 header {
     text-align: center;
 }
@@ -24,4 +31,16 @@ header.a {
 a:visited, a:link {
     color: aquamarine;
     font-size: 18px;
+}
+
+article {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 21px;
+    color: gray;
+}
+
+footer {
+    text-align: right;
+    color: gray;
+    font-size: 21px
 }
